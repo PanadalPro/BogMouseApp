@@ -1,3 +1,5 @@
+I've put all the files in a zip because it contained the app and a venv, which was very heavy and for some reason I was unable to load it into github. ANyways, if you don't trust this, I left you the python file aswell as the spec (for pyinstaller) file, so that you can make yourself the venv and build the app. Good luck!
+
 ### Create venv
 
     In VSCode, head onto the status bar (bottom bar) and click the python interpreter (the button that shows the python version), choose create virtual environment and choose a .venv environment.
